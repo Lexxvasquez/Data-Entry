@@ -1,0 +1,27 @@
+{
+  "name": "data-entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexxvasquez/Data-Entry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexxvasquez/Data-Entry/issues"
+  },
+  "homepage": "https://github.com/Lexxvasquez/Data-Entry#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
