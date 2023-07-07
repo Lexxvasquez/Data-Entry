@@ -1,8 +1,8 @@
 # Data-Entry
 
 ## Description 
-This application focused on backend with creating the api, notes and server.js to function when
-typing in a title it will save the information. 
+This application focused on backend with Express.js worked by saving and retrieving note data from Json. Front end was
+already done for this assignment. I got the api, notes and server.js all connected so there will be no errors. 
 
 ## User Story
 AS A small business owner<br>
