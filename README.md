@@ -24,6 +24,12 @@ THEN that note appears in the right-hand column<br>
 WHEN I click on the Write icon in the navigation at the top of the page<br>
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+
+## Usage
+![app](assets/images/DataEntryHome.jpg)
+
+![app](assets/images/DataEntryAddNotes.jpg)
+
 ## Links
 [Deployed site](https://data-entry-av-ce1505f96dfa.herokuapp.com/notes)
 
